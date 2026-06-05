@@ -1,0 +1,37 @@
+src/App.tsx
+  s_02b3979c3324b0::t_7c7fc06080df17 1-4,6,8-20
+src/pages/Home/index.tsx
+  s_02b3979c3324b0::t_0d8d9afbebf3b7 1-103
+src/index.css
+  s_02b3979c3324b0::t_1a4280d6ecc31d 1-5,7,10-13
+.claude/settings.local.json
+  s_02b3979c3324b0::t_0d7840eb82da34 1-7
+package.json
+  s_02b3979c3324b0::t_0d7840eb82da34 13,15-16
+src/utils/auth.ts
+  s_02b3979c3324b0::t_8926fbc2501c10 1-27
+src/router/PrivateRoute.tsx
+  s_02b3979c3324b0::t_32933e7930f918 1-11
+src/main.tsx
+  s_02b3979c3324b0::t_0f54d444ff9a89 3,5,9-11
+src/pages/Login/index.css
+  s_02b3979c3324b0::t_3d77d15d27c368 1-13
+src/pages/Login/index.tsx
+  s_02b3979c3324b0::t_92b3694276f107 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "2b33ee8ba0f5efe7e3af1992595dfd388310670b",
+  "prompts": {},
+  "sessions": {
+    "s_02b3979c3324b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0343c0c-e4c0-4d55-90a0-85a3b9a86e0f",
+        "model": "mco-5"
+      },
+      "human_author": "swlws <swlwsgg@gmai.com>"
+    }
+  }
+}
