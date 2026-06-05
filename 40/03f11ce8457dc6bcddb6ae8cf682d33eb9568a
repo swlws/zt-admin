@@ -1,0 +1,14 @@
+README.md
+  h_8b2f1d92a5ba33 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "4003f11ce8457dc6bcddb6ae8cf682d33eb9568a",
+  "prompts": {},
+  "humans": {
+    "h_8b2f1d92a5ba33": {
+      "author": "swlws <swlwsgg@gmai.com>"
+    }
+  }
+}
