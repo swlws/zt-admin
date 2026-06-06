@@ -1,0 +1,53 @@
+src/pages/Login/index.tsx
+  s_02b3979c3324b0::t_cd20e8a49eba5c 23
+src/pages/Orders/New.tsx
+  s_02b3979c3324b0::t_253ac745b3bb89 1-5
+src/pages/Devices/index.tsx
+  s_02b3979c3324b0::t_ced70db62c2252 1-5
+src/pages/Products/index.tsx
+  s_02b3979c3324b0::t_b661e1183bad7b 1-5
+src/layouts/AdminLayout/Sidebar.tsx
+  s_02b3979c3324b0::t_356622b78ea264 1-106
+src/layouts/AdminLayout/index.css
+  s_02b3979c3324b0::t_c2f120aa869dd4 1-205
+src/pages/Customers/index.tsx
+  s_02b3979c3324b0::t_b7f68d2192b60b 1-5
+src/pages/Dashboard/index.tsx
+  s_02b3979c3324b0::t_6089121fee8b04 1-41
+src/components/Placeholder.tsx
+  s_02b3979c3324b0::t_8f18b08b3d944a 1-15
+src/layouts/AdminLayout/Header.tsx
+  s_02b3979c3324b0::t_945782e5a2c5b2 1-51
+src/layouts/AdminLayout/index.tsx
+  s_02b3979c3324b0::t_01e0436b5f9fc6 1-24
+src/App.tsx
+  s_02b3979c3324b0::t_f6f645867b1b84 3-13,23,26-39
+src/pages/Orders/Edit.tsx
+  s_02b3979c3324b0::t_f532f533376f99 1-5
+src/pages/Orders/index.tsx
+  s_02b3979c3324b0::t_d9cb5334b5cbdf 1-5
+src/pages/Engineers/index.tsx
+  s_02b3979c3324b0::t_8f9b9b65d0fb61 1-5
+src/layouts/AdminLayout/menus.ts
+  s_02b3979c3324b0::t_18161d06091530 1-53
+src/pages/MobilePreview/index.tsx
+  s_02b3979c3324b0::t_3e5ffc86db91bd 1-5
+src/pages/Settings/index.tsx
+  s_02b3979c3324b0::t_6bd8196d5eac1f 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "3355be002cc85fc3282f94516856bce83f62c633",
+  "prompts": {},
+  "sessions": {
+    "s_02b3979c3324b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0343c0c-e4c0-4d55-90a0-85a3b9a86e0f",
+        "model": "mco-5"
+      },
+      "human_author": "swlws <swlwsgg@gmai.com>"
+    }
+  }
+}
